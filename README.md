@@ -1,35 +1,3 @@
-# Learn VueJs, NuxtJs and FastAPI
+## Django DRF Algolia Search API
 
-Dedicated sandbox for learning and experimenting with the Vue.js, Nuxt.js, and FaskAPI web development stack. Organized into distinct directories for each technology, featuring foundational examples, component explorations, and personal notes.
-
-## Technologies
-
-- Vue.js
-- Nuxt.js
-- FastAPI
-
-## Directory Structure
-
-```
-.
-├── fastapi-essentials
-│   ├── README.md
-├── nuxtjs-basics
-│   ├── README.md
-├── vuejs-fundamentals
-│   ├── README.md
-├── README.md
-```
-
-## Resources
-
-### Vue.js
-
-**Documentation**
-- [Documentation](https://vuejs.org/guide/introduction.html)
-- [Read the Guide](https://vuejs.org/guide/essentials/application.html)
-- [Try the Tutorial](https://vuejs.org/tutorial/#step-1)
-
-**Tutorials**
-- [Vue.js Explained in 100 Seconds](https://www.youtube.com/watch?v=nhBVL41-_Cw)
-- [Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+This tutorial focuses on building a robust REST API using Django and **Django Rest Framework (DRF)**, highlighting the power of **Serializers** and **Generic Views** (e.g., Retrieve, List, Create) to simplify CRUD operations. Key features include custom permissions, JWT authentication, and integrating the third-party search service **Algolia** for robust searching.
